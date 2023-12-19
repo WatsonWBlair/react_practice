@@ -1,0 +1,14 @@
+{
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "files.exclude": {
+        "**/.git": false,
+        "**/.git/info": true,
+        "**/.git/logs": true,
+        "**/.git/objects": true,
+        "**/.git/refs": true,
+        "**/.git/HEAD": true,
+        "**/.git/index": true,
+        "**/.git/description": true,
+        "**/.git/config": true,
+   }
+}
